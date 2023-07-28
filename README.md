@@ -46,4 +46,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+<h3 align="center"> Developed by <a href="https://www.linkedin.com/in/lfrossinhole/">Lucas Feitosa Rossinhole</a> ☕</h3>
